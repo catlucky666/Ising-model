@@ -70,7 +70,7 @@ int main(int argc, char* argv[])
 // Pre-calculate target probability
 //-------------------------------------------------------------------
 	dProb_Target[0] = 1.0;
-	dProb_Target[1] = exp(-4.0 * J/ dTemperature);
+	dProb_Target[1] = exp(-4.0 * J / dTemperature);
 	dProb_Target[2] = exp(-8.0 * J / dTemperature);
 //-----------------------------------------------------------------------------
 // Calculate total energy
