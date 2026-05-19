@@ -3,6 +3,7 @@
 #include <time.h>
 #include <math.h>
 #define SIZE 10
+#define K_B  1
 #define J    1 
 //-----------------------------------------------------------------------------
 // calculation  energy
